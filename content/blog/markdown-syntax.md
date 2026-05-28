@@ -1,29 +1,7 @@
----
 title: "Markdown 基本语法笔记"
 date: 2026-05-28
 draft: false
-tags: ["Markdown", "笔记", "教程"]
-categories: ["博客搭建"]
-summary: "记录我常用的 Markdown 语法，方便自己随时查阅。"
----
-
-# Markdown 基本语法笔记
-
-这是我整理的马可down语法，方便写博客时快速参考。
-
-## 1. 标题
-
-用 `#` 表示标题级别：
-
-```markdown
-# 一级标题
-## 二级标题
-### 三级标题
----
-title: "Markdown 基本语法笔记"
-date: 2026-05-28
-draft: false
-tags: ["Markdown", "笔记", "教程"]
+tags: ["笔记", "教程"]
 categories: ["博客搭建"]
 summary: "记录我常用的 Markdown 语法，方便自己随时查阅。"
 ---
