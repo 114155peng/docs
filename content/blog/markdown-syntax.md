@@ -1,9 +1,13 @@
-title: "Markdown 基本语法笔记"
+---
+title: Markdown技术笔记
+summary: 技术笔记整理 # 改成你的摘要
 date: 2026-05-28
-draft: false
-tags: ["笔记", "教程"]
-categories: ["博客搭建"]
-summary: "记录我常用的 Markdown 语法，方便自己随时查阅。"
+authors:
+  - me
+tags:
+  - 技术
+image:
+  caption: 'Image credit: [**Unsplash**](https://unsplash.com)'
 ---
 
 # Markdown 基本语法笔记
