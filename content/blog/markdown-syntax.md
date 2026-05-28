@@ -9,25 +9,24 @@ tags:
 image:
   caption: 'Image credit: [**Unsplash**](https://unsplash.com)'
 ---
-
-# Markdown 基本语法笔记
-
 这是我整理的 Markdown 语法，方便写博客时快速参考。
 
 ## 1. 标题
 
-用 `#` 表示标题级别：
+用#表示标题级别：
 
 ```markdown
 # 一级标题
 ## 二级标题
 ### 三级标题
-2. 强调
-markdown
+```
+## 2. 强调
+```markdown
 *斜体*  或  _斜体_
 **加粗**
 ***加粗斜体***
-效果：斜体，加粗，加粗斜体。
+```
+效果：*斜体*，**加粗**，***加粗斜体***。
 
 3. 列表
 无序列表：
@@ -49,7 +48,7 @@ markdown
 行内代码：`code`
 
 代码块：
-```python
+python
 print("Hello")
 ```
 
