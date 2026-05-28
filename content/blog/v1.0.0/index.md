@@ -12,7 +12,6 @@ image:
   caption: 'Image credit: [**Unsplash**](https://unsplash.com)'
 ---
 
-markdown
 今天终于把这个博客搭起来了！🎉
 
 感谢 Hugo 和 HugoBlox 提供的优秀模板。
