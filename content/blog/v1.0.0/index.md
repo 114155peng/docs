@@ -1,5 +1,5 @@
 ---
-title: 构建个人网站
+title: 搭建个人网站
 summary: 利用hugo建立自己的网站 # 改成你的摘要
 date: 2026-05-28
 authors:
@@ -11,7 +11,7 @@ tags:
 image:
   caption: 'Image credit: [**Unsplash**](https://unsplash.com)'
 ---
-#正文部分
+
 markdown
 今天终于把这个博客搭起来了！🎉
 
